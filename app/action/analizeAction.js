@@ -21,7 +21,7 @@ export async function analizeAction(prevState, formData) {
         }
     }
 
-    const model = "google/gemini-2.0-flash-exp:free"
+    const model = "mistralai/mistral-7b-instruct:free"
     // "openai/gpt-4o-mini"
     // "mistralai/mistral-small-3.1-24b-instruct:free"
 
